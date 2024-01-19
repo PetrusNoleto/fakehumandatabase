@@ -1,0 +1,18 @@
+export const flags = [
+     {flagId:0,flagAbreviation:"all",flagName:"all nations",flagAdreess:"/flags/onu.svg",flagHref:"/nations/nation/all/"},    
+     {flagId:1,flagAbreviation:"us",flagName:"United States",flagAdreess:"/flags/us.svg",flagHref:"/nations/nation/us/"},
+     {flagId:2,flagAbreviation:"br",flagName:"Brazil",flagAdreess:"/flags/brazil.webp",flagHref:"/nations/nation/br/"},
+     {flagId:3,flagAbreviation:"ca",flagName:"Canada",flagAdreess:"/flags/canada.svg",flagHref:"/nations/nation/ca/"},
+     {flagId:4,flagAbreviation:"au",flagName:"Australia",flagAdreess:"/flags/Australia.svg",flagHref:"/nations/nation/au/"},
+     {flagId:5,flagAbreviation:"ch",flagName:"Switzerland",flagAdreess:"/flags/Switzerland.svg",flagHref:"/nations/nation/ch/"},
+     {flagId:6,flagAbreviation:"de",flagName:"Germany",flagAdreess:"/flags/Germany.svg",flagHref:"/nations/nation/de/"},
+     {flagId:7,flagAbreviation:"es",flagName:"Spain",flagAdreess:"/flags/Spain.svg",flagHref:"/nations/nation/es/"},
+     {flagId:8,flagAbreviation:"fr",flagName:"France",flagAdreess:"/flags/France.svg",flagHref:"/nations/nation/fr/"},
+     {flagId:9,flagAbreviation:"gb",flagName:"United Kingdom",flagAdreess:"/flags/United_Kingdom.svg",flagHref:"/nations/nation/gb/"},  
+     {flagId:10,flagAbreviation:"in",flagName:"India",flagAdreess:"/flags/India.svg",flagHref:"/nations/nation/in/"},   
+     {flagId:11,flagAbreviation:"no",flagName:"Norway",flagAdreess:"/flags/Norway.svg",flagHref:"/nations/nation/no/"},  
+     {flagId:12,flagAbreviation:"dk",flagName:"Denmark",flagAdreess:"/flags/Denmark.svg",flagHref:"/nations/nation/dk/"},  
+     {flagId:13,flagAbreviation:"mx",flagName:"Mexico",flagAdreess:"/flags/Mexico.svg",flagHref:"/nations/nation/mx/"},  
+     {flagId:14,flagAbreviation:"nl",flagName:"Netherlands",flagAdreess:"/flags/Netherlands.svg",flagHref:"/nations/nation/nl/"},  
+     {flagId:15,flagAbreviation:"ie",flagName:"Ireland",flagAdreess:"/flags/Ireland.svg",flagHref:"/nations/nation/ie/"},  
+]

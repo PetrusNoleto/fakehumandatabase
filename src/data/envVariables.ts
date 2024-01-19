@@ -1,0 +1,1 @@
+export const fakeHumanApiAdress = process.env.NEXT_PUBLIC_API_FAKEHUMAN_DATABASE as string
